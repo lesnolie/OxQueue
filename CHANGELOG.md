@@ -2,6 +2,16 @@
 
 ## 1.0.1 - 2026-10-29
 
+- 新增项目说明，介绍安装、使用命令和模拟测试；公开仓库排除临时文件并保留源码原始换行，以保持发布校验一致。
+
+- Add project documentation for installation, commands, and simulated tests; exclude temporary files and preserve source line endings for consistent release checks.
+
+验证 / Validation:
+
+- 45 项插件模拟测试和 5 项发布工具测试通过；未在游戏客户端内验证。
+
+## 1.0.1 - 2026-10-29
+
 - 新增项目说明，介绍安装、使用命令和模拟测试；为公开仓库排除临时文件。
 
 - Add project documentation for installation, commands, and simulated tests, and exclude temporary files from the public repository.
