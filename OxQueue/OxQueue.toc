@@ -4,7 +4,7 @@
 ## Title-zhTW: Ox延遲容限
 ## Notes: Measures your ability press timing and ping, then recommends a SpellQueueWindow. /oxq
 ## Notes-zhCN: 记录你的按键时机和延迟，推荐最合适的延迟容限（SpellQueueWindow）。/oxq
-## Version: 1.0.1
+## Version: 1.0.2
 ## SavedVariables: OxQueueDB
 ## IconTexture: Interface\Icons\Spell_Nature_TimeStop
 ## AddonCompartmentFunc: OxQueue_Toggle

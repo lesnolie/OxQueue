@@ -1,5 +1,19 @@
 [
   {
+    "version": "1.0.2",
+    "date": "2026-10-29",
+    "zh": [
+      "新增非商业使用许可：允许非商业免费使用、修改和分享，禁止未经授权的商业用途及收费分发；许可随插件包提供。"
+    ],
+    "en": [
+      "Add a noncommercial license permitting free noncommercial use, modification and sharing while prohibiting unauthorized commercial use and paid distribution; include it in the addon package."
+    ],
+    "verified": [
+      "45 项插件模拟测试与 5 项发布工具测试通过；未在游戏客户端内验证。"
+    ],
+    "source_sha256": "ea7860717e92f38335791883f6c98df22ea3b69a1438461cc6c3c59c993d1038"
+  },
+  {
     "version": "1.0.1",
     "date": "2026-10-29",
     "zh": [

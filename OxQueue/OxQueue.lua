@@ -8,7 +8,7 @@ local SPAM_GAP = 0.5       -- presses further apart than this are not "spamming"
 local LATE_WINDOW = 1.0    -- a press this long after the lock ended is idle, not late
 local SAME_LOCK = 0.05     -- lock-end jitter (haste changes, rounding) treated as the same cycle
 local DUPLICATE = 0.01     -- two hooks reporting one press
-local VERSION = "1.0.1"
+local VERSION = "1.0.2"
 ns.QQ_GROUP = "233489177"   -- same group as ExecutionerWatch
 
 local DEFAULTS = { coverage = 0.95, margin = 20, combatOnly = true, recording = false,

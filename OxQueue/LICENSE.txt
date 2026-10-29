@@ -1,0 +1,35 @@
+OxQueue 非商业使用许可 / OxQueue Noncommercial License
+
+版权所有：OxQueue 的版权人及贡献者。保留本许可未明确授予的一切权利。
+
+1. 授权范围
+在遵守本许可的前提下，版权人允许任何人免费地为非商业目的使用、复制和修改 OxQueue，并免费分享原版或修改版。此授权仅涵盖版权人有权授予的权利；第三方材料如有单独的授权条款，仍须遵守其条款。
+
+2. 禁止商业用途
+未经版权人事先书面许可，不得以商业目的使用、复制、修改或分发 OxQueue 或其修改版。商业用途包括商业团队用于业务活动，以及出售、收费提供、放入付费整合包或作为收费服务的一部分分发。不得通过捆绑、会员收费或其他方式变相对 OxQueue 或其修改版收费。
+
+3. 分享条件
+分享原版或修改版时，必须免费提供，保留已有的版权声明和本许可全文，并向接收者提供本许可。分享修改版时，还必须清楚标明已修改，并概述修改内容。接收者只能按照本许可使用和分享 OxQueue；不得授予超出本许可的权利或增加与本许可冲突的限制。
+
+4. 其他权利和免责声明
+本许可不授予商标使用权，也不授予本许可未明确列出的其他权利。OxQueue 按“现状”提供，不作任何明示或默示保证。在适用法律允许的最大范围内，版权人及贡献者不对因使用或无法使用 OxQueue 而产生的损失承担责任。
+
+本许可的中文和英文版本用于说明相同条款；如有歧义，以中文为准。
+
+---
+
+Copyright: the copyright holders and contributors of OxQueue. All rights not expressly granted by this license are reserved.
+
+1. Scope of permission
+Subject to this license, the copyright holders permit anyone to use, copy, and modify OxQueue free of charge for noncommercial purposes, and to share the original or modified versions free of charge. This permission covers only rights the copyright holders are entitled to grant; any separate terms for third-party materials still apply.
+
+2. Commercial use prohibited
+Without prior written permission from the copyright holders, OxQueue and modified versions may not be used, copied, modified, or distributed for commercial purposes. Commercial purposes include use by commercial teams in business activities, selling, offering for a fee, inclusion in paid bundles, and distribution as part of a paid service. Charging for OxQueue or modified versions indirectly through bundling, membership fees, or other means is also prohibited.
+
+3. Conditions for sharing
+When sharing the original or a modified version, provide it free of charge, retain existing copyright notices and this license in full, and provide this license to recipients. When sharing a modified version, also clearly identify it as modified and summarize the changes. Recipients may use and share OxQueue only under this license; do not grant rights beyond it or add restrictions that conflict with it.
+
+4. Other rights and disclaimer
+This license grants no trademark rights or other rights not expressly stated here. OxQueue is provided “as is,” without warranties of any kind, express or implied. To the maximum extent permitted by applicable law, the copyright holders and contributors are not liable for losses arising from use of or inability to use OxQueue.
+
+The Chinese and English versions describe the same terms. In case of ambiguity, the Chinese version governs.

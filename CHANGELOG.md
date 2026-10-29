@@ -1,5 +1,15 @@
 # OxQueue 更新日志 / Changelog
 
+## 1.0.2 - 2026-10-29
+
+- 新增非商业使用许可：允许非商业免费使用、修改和分享，禁止未经授权的商业用途及收费分发；许可随插件包提供。
+
+- Add a noncommercial license permitting free noncommercial use, modification and sharing while prohibiting unauthorized commercial use and paid distribution; include it in the addon package.
+
+验证 / Validation:
+
+- 45 项插件模拟测试与 5 项发布工具测试通过；未在游戏客户端内验证。
+
 ## 1.0.1 - 2026-10-29
 
 - 新增项目说明，介绍安装、使用命令和模拟测试；公开仓库排除临时文件并保留源码原始换行，以保持发布校验一致。

@@ -37,3 +37,7 @@ python tests/test_release.py
 ```
 
 发布说明见 [更新日志](CHANGELOG.md)。打包使用 `python tools/release.py build`；发布规则见 [AGENTS.md](AGENTS.md)。
+
+## 使用许可
+
+OxQueue 公开源码，允许非商业目的下免费使用、修改和分享；分享修改版须保留许可和版权声明并标明修改。禁止商业用途，包括商业团队业务使用、出售和收费分发；商业使用须事先取得版权人的书面许可。完整条款见 [非商业使用许可](OxQueue/LICENSE.txt)。
